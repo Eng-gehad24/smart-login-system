@@ -1,0 +1,47 @@
+body.index
+{
+    background-color: aqua;
+}
+body.index .container{
+    background-color: rgb(83, 207, 207);
+}
+body.index h1
+{
+    color: #de62b2;
+}
+.container button{
+    background-color: #de62b2;
+    border:2px solid aqua;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.container p a{
+    background-color: #de62b2;
+}
+::placeholder
+{
+    color: #de62b2 !important;
+}
+
+.home-message
+{
+    background: rgb(83, 207, 207);
+    border:2px solid rgb(83, 207, 207);
+    padding: 19px;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.home-message{
+    color:#de62b2;
+}
+.main-home-message
+{
+    text-shadow: 0 0 6px white;
+}
+.userNameInHome
+{
+    text-shadow: 0 0 5px;
+}
